@@ -1,0 +1,24 @@
+{
+  "name": "pollingsystemapi-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "18.15.0",
+    "npm": "9.5.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smally Singh",
+  "license": "ISC",
+  "dependencies": {
+    "data-parser": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "description": ""
+}
