@@ -4,7 +4,7 @@
     
 # Hosted URL :- 
     
-    https://blushing-battledress-lamb.cyclic.app
+   https://blushing-battledress-lamb.cyclic.app
     
 # Requirements :- 
     
