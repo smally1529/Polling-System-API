@@ -8,26 +8,26 @@
     
 # Requirements :- 
     
-    ▪ Install Node.js
-    ▪ Install MongoDB
-    ▪ Install Postman or use any other api testing tool
-    ▪ Install MongoDB Compass to check your api thats work fine or not.
+    ▪Install Node.js
+    ▪Install MongoDB
+    ▪Install Postman or use any other api testing tool
+    ▪Install MongoDB Compass to check your api thats work fine or not.
     
 # Getting Started :- 
 
      ▪ Clone the repository
       
-      git clone smally1529/Polling-System-API
+     git clone smally1529/Polling-System-API
       
      ▪ Install dependencies 
        
-       npm install
+      npm install
        
      ▪ Open "config/mongoose.js" and add MongoDB URI, local or Atlas
      
      ▪ Build and run the project
         
-        npm start
+      npm start
         
      ▪ Navigate to http://localhost:8000/
      
